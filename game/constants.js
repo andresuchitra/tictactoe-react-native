@@ -1,0 +1,3 @@
+export const SET_BOARD = 'SET_BOARD';
+export const SET_TILE_CONTENT = 'SET_TILE_CONTENT';
+export const SET_CURRENT_PLAYER = 'SET_CURRENT_PLAYER';
